@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-space-tourism-challenge/static/css/main.a617e044.chunk.css",
+    "main.js": "/frontend-mentor-space-tourism-challenge/static/js/main.32143a3c.chunk.js",
+    "main.js.map": "/frontend-mentor-space-tourism-challenge/static/js/main.32143a3c.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-space-tourism-challenge/static/js/runtime-main.dfbe3141.js",
+    "runtime-main.js.map": "/frontend-mentor-space-tourism-challenge/static/js/runtime-main.dfbe3141.js.map",
+    "static/js/2.d1834bfa.chunk.js": "/frontend-mentor-space-tourism-challenge/static/js/2.d1834bfa.chunk.js",
+    "static/js/2.d1834bfa.chunk.js.map": "/frontend-mentor-space-tourism-challenge/static/js/2.d1834bfa.chunk.js.map",
+    "static/js/3.e8e51b28.chunk.js": "/frontend-mentor-space-tourism-challenge/static/js/3.e8e51b28.chunk.js",
+    "static/js/3.e8e51b28.chunk.js.map": "/frontend-mentor-space-tourism-challenge/static/js/3.e8e51b28.chunk.js.map",
+    "index.html": "/frontend-mentor-space-tourism-challenge/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/frontend-mentor-space-tourism-challenge/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d1834bfa.chunk.js.LICENSE.txt": "/frontend-mentor-space-tourism-challenge/static/js/2.d1834bfa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/frontend-mentor-space-tourism-challenge/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfbe3141.js",
+    "static/js/2.d1834bfa.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.32143a3c.chunk.js"
+  ]
+}
