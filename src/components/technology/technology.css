@@ -1,0 +1,6 @@
+.passive{
+    background-color: transparent !important;
+    backdrop-filter: blur(5px) !important;
+    border:1px solid white !important;
+    color: white !important;
+}
